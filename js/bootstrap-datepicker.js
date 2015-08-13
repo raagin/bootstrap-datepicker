@@ -1121,7 +1121,7 @@
 					case 'th':
 						switch (target[0].className){
 							case 'datepicker-switch':
-								this.showMode(1);
+								//this.showMode(1);
 								break;
 							case 'prev':
 							case 'next':
